@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 135207832919b7e43a051c74cc815501, type: 3}
+  m_Name: Runner_Level02
+  m_EditorClassIdentifier: 
+  obstaclesToLevelUp: 5
+  minTimeBetweenObstacles: 3
+  maxTimeBetweenObstacles: 4
+  obstaclesSpeed: 2.5
+  availableObstacleTypes:
+  - {fileID: 7823882053464708469, guid: f765c63be8728d04288068c615b02d9f, type: 3}
+  - {fileID: 3158098902194796613, guid: 0d5ea283f8fe8e5468683077276b3b3b, type: 3}
