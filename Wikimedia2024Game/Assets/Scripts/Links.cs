@@ -5,7 +5,7 @@
     public const string BichoRaroWebPage = "https://bichorarogames.com/";
     public const string WikimediaWebPage = "https://wikimedia.org.ar/";
     public const string InfoCodigoCultura = "https://wikimedia.org.ar/2024/05/21/llega-una-nueva-edicion-de-codigo-cultura/";
-    public const string TermsAndConditions = "https://drive.google.com/file/d/1MTc69kkDs_ytpP3Oa55W8qv95tT6_v2O/view?usp=sharing";
+    public const string TermsAndConditions = "https://commons.wikimedia.org/wiki/File:T%C3%A9rminos_y_Condiciones_-_Aventuras_Mar%C3%ADtimas.pdf";
 
     public const string InfoLinkMonstruosMarinos = "https://es.wikipedia.org/wiki/Bestias_marinas_en_la_cartograf%C3%ADa_de_los_siglos_XVI_al_XVIII";
     public const string InfoLinkNaufragios = "https://es.wikipedia.org/wiki/Arqueolog%C3%ADa_de_los_naufragios";
